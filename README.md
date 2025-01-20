@@ -1,5 +1,5 @@
 # Image-Processing--Point-operations--Geometric-operations
-## ***Problem 1 – Point operations :***
+## ***Question 1 – Point operations :***
 Inside the q1 directory, you are given three broken images and a skeleton of a python script file called imageFix.py.
 For each of those images:
 
@@ -11,10 +11,10 @@ a) Choose which correction is the best one for the image.
 b) Apply the chosen correction for the image, attach the fixed image along with the parameters used.
 
 
-## ***Problem 2 – Puzzle solving with geometric operations :***
+## ***Question 2 – Puzzle solving with geometric operations :***
 We’re given pieces of a puzzle, and we want to solve the puzzle by “stitching” the pieces together. For example:
 
-![image](https://github.com/user-attachments/assets/be5339e6-71c6-4455-b97f-b6bd00c18335)
+![image](https://github.com/user-attachments/assets/7d8ef13e-ced9-4b59-8424-31ce8bdfebc1)
 
 However, it's not that simple since some mischievous entity applied affine or projective transformations to our puzzle pieces. Therefore, we need to find the inverse-transformations for those pieces so we can put them back together.
 There are 3 different puzzles, each in its own folder inside the ‘puzzles’ folder, and for each of them you are given the following:
